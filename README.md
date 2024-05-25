@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 </div-->
 
 <div align="center">
-  <img height="280" src="https://media.giphy.com/media/MUlmRFnTQxwJ2/giphy.gif"  />
+  <img height="280" src="https://tenor.com/bFK3q.gif"  />
 </div>
 <!--div align="center" >
     <img src="" />
