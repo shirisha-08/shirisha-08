@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=Ff00e6&width=380&height=45&lines=Always+Learning+New+Things;WEB3+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...;Blockchain&center=true">
 </p>
 
-<p align="center"> <a href="https://twitter.com/satya_idk" target="blank"><img src="https://img.shields.io/twitter/follow/satya_idk?logo=twitter&style=for-the-badge" alt="satya_idk" /></a> </p>
+<p align="center"> <a href="https://x.com/Shirisha_08" target="blank"><img src="https://img.shields.io/twitter/follow/satya_idk?logo=twitter&style=for-the-badge" alt="Shirisha_08" /></a> </p>
 
 - 🌱 I’m currently learning **AWS DevOps** ⚛️
 
