@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 12
 </h3-->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=Ff00e6&width=380&height=45&lines=Always+Learning+New+Things;Cloud+Computing+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things;Cloud+Computing+Enthusiast;Nice+To+Meet+You+...;Blockchain&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=Ff00e6&width=380&height=45&lines=Always+Learning+New+Things;Cloud+Computing+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things;Cloud+Computing+Enthusiast;Nice+To+Meet+You+...;&center=true">
 </p>
 
 <!--p align="center">  
