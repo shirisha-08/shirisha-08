@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 12
 </h3-->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=Ff00e6&width=380&height=45&lines=Always+Learning+New+Things;WEB3+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...;Blockchain&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=Ff00e6&width=380&height=45&lines=Always+Learning+New+Things;Cloud+Computing+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things;Cloud+Computing+Enthusiast;Nice+To+Meet+You+...;Blockchain&center=true">
 </p>
 
 <!--p align="center">  
@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
  <!--a href="https://app.daily.dev/0xsatyaidk"><img width="44%" align="right" src="https://api.daily.dev/devcards/12aba086b2ea45e79f2131fd25f2dd07.png?r=ddm" width="400" alt="Nikadi SatyaNarayana's Dev Card"/></a-->
 
-<p align="center"> <a href="https://twitter.com/satya_idk" target="blank"><img src="https://img.shields.io/twitter/follow/satya_idk?logo=twitter&style=for-the-badge" alt="satya_idk" /></a> </p>
+<p align="center"> <a href="https://x.com/Shirisha_08" target="blank"><img src="https://img.shields.io/twitter/follow/Shirisha_08?logo=twitter&style=for-the-badge" alt="Shirisha_08" /></a> </p>
 
-- 🌱 I’m currently learning *React.js, Dapps!* ⚛️
+- 🌱 I’m currently learning *AWS DevOps* ⚛️
 
-- 💬 Ask me about *Front-end!* ✅
+- 💬 Ask me about *AWS DevOps* ✅
 
-- 📫 How to reach me: *nikadisatyanarayana@gmail.com*
+- 📫 How to reach me: *shirishapvt@gmail.com*
 
 
 <br>
