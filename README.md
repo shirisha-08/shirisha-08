@@ -124,8 +124,7 @@ Here are some ideas to get you started:
 </div-->
 
 <div align="center">
-  <img height="280"
-      <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/dv01JuAyGK11zZKRv5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/marvelstudios-dv01JuAyGK11zZKRv5">via GIPHY</a></p>
+  <img height="280" src="https://media.giphy.com/media/MUlmRFnTQxwJ2/giphy.gif"  />
 </div>
 <!--div align="center" >
     <img src="" />
@@ -134,11 +133,6 @@ Here are some ideas to get you started:
 
 <!--p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaidk&layout=compact&theme=neon" height="280" width="750" alt="satyaidk" /></p-->
 
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=default"  height="300" width="500" />
-</div>
-
 <!--a href=#><img src="contributions.svg"></a-->
 
-[![An image of @satyaidk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyaidk)](https://holopin.io/@satyaidk)
 
