@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://github.com/satyaidk/satyaidk/assets/98378624/91406b8e-290f-4e0b-b19b-4f03f4d0c169)
 
-<h1 align="center">Hi, I am Satya Narayana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi, I am Shirisha Seelam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <!--h1 align="center">Hi , I'm Satya Narayana</h1-->
 <!--h3 align="center">I'm a passionate Front-end developer 
 12
