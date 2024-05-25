@@ -3,7 +3,7 @@
 
 
 
-
+<!--
 *satyaidk/satyaidk* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--!>
 
 ![header](https://github.com/satyaidk/satyaidk/assets/98378624/91406b8e-290f-4e0b-b19b-4f03f4d0c169)
 
